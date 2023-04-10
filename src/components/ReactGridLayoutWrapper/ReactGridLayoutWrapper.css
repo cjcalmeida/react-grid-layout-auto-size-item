@@ -1,0 +1,9 @@
+.layout {
+  background-color: #ededed;
+  border: 1px solid #ddd;
+  margin: 10px;
+}
+
+.layout .react-grid-item {
+  border: 1px dashed #aaa;
+}
